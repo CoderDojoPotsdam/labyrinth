@@ -1,6 +1,8 @@
 Labyrinth
 =========
 
+**Deprecated  [use the FOSSASIA Labyrinth](https://github.com/fossasia/labyrinth)**
+
 [**Play Now**](https://fossasia.github.io/labyrinth/index.html)
 
 This is a labyrinth software which can be edited by you.
